@@ -1,2 +1,2 @@
-![header](Assets/doompic.jpg)
+![header](/Assets/doompic.jpg)
 
