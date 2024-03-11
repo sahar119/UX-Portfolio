@@ -5,6 +5,8 @@ Doomscrolling, or mindlessly consuming negative content, such as news, has major
 # Sampling and research procedure
 This study explored the role of emotional interventions via a humorous content recommendation system in changing doomscrolling behaviors among young adults under 35. I chose this target group because they are digital natives and have turned to social media and other online news platforms to check the news instead of offline (Galan, Osserman, Parker, & Taylor, 2019). First, an interview and an online survey were used for user research. Second, an analysis was done on the data gained from user research to identify users' problems, emotions, and needs. Third, the prototype’s design and technical implementation were iterated. Several feedback sessions were held between iterations to complement the prototyping procedure. I conducted five one-to-one interviews and workshops with friends.
 Additionally, I conducted an online survey with 15 participants. I included several multiple-choice and open-ended questions and asked them to answer similar questions as those offline users (5 friends). The figure below illustrates a summary of the sample and the procedure. 
+![sampling](/Assets/sampling.png)
+
 
 
 
