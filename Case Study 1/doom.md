@@ -11,7 +11,8 @@ Additionally, I conducted an online survey with 15 participants. I included seve
   A semi-structured interview was conducted with a total of fifteen questions developed by the researcher. Participants were selected through the convenience sampling method, in which the researcher selects participants because this is the easiest way for them to access it (Nickolopoulou, 2022). This method was chosen because of the limited time frame of the project, so a friendship group of the researcher’s known friends or acquaintances was used to facilitate open and natural conversations. The criteria for the participants were: (1) to be between 18 and 35 years of age; (2) to have sufficient English language proficiency; (3) to have doomscrolling experience on online news platforms; or (4) to have excessive social media consumption.
 The procedure was divided into two parts:
 - 75-minute one-on-one interviews with 5 participants.
-- A 60-minute collaborative workshop where participants were asked to explain their opinions about the two types of comics    
+- A 60-minute collaborative workshop where participants were asked to explain their opinions about the two types of comics.
+![sampling2](/Assets/11.png)     
 
 
 
