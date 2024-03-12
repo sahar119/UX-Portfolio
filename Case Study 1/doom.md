@@ -12,7 +12,11 @@ Additionally, I conducted an online survey with 15 participants. I included seve
 The procedure was divided into two parts:
 - 75-minute one-on-one interviews with 5 participants.
 - A 60-minute collaborative workshop where participants were asked to explain their opinions about the two types of comics.
-![sampling2](/Assets/11.png)     
+### The table below shows the convenience sampling group demographics of participants.                            
+![sampling2](/Assets/11.png)
+## Online recruited group procedure
+  
+                                                  
 
 
 
