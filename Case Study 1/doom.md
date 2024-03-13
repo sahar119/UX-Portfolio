@@ -18,6 +18,8 @@ The procedure was divided into two parts:
 To prevent potential biases in the user research sampling and gain as many diverse insights as possible, I collected data from 15 participants via an online survey using the same friendship group criteria and questions.
 The table below illustrates the demographics of the online recruited groups. 
 ![samle online](/Assets/22.png)
+# Analysis of User Research Data
+
 
   
                                                   
