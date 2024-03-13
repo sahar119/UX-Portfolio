@@ -23,7 +23,7 @@ The affinity map demonstrates the core insights from both groups of users (face-
 ![map](/Assets/coreinsights.jpg)
 Overall, the user research provided important insights about users' intentions in scrolling online negative content, such as news, and the emotions of users during scrolling. Such insights are important, as they were critical to being considered in the prototyping process to design and develop an app that could benefit users with doomscrolling problems. The table below shows the emotional response toward doomscrolling analysis.
 ![analysis](/Assets/33.jpg)
-*** Problem statements
+### Problem statements
 ![problems](/Assets/44.jpg)
 # Prototyping
 An intervention nudging The app was developed based on insights from the theoretical review and user research analysis. The prototype consists of the design part and technical code components. In the design part, three different interventions were designed based on emotion, meditation, and notification. Moreover, an app customization part was designed that consisted of different parts such as setting app limitations, setting downtime schedules, adding and customizing interventions, and an overview of reports. 
