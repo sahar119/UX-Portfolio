@@ -22,6 +22,18 @@ The table below illustrates the demographics of the online recruited groups. 
 The affinity map demonstrates the core insights from both groups of users (face-to-face interviews and online participants). More specifically, I summarized the participants' answers for each category of questions: main intention or motivation to scroll, feelings during scrolling, hacks, and their needs or reasons for having an intervention app that can interrupt their mindless scrolling habits. The analysis has been done to identify the main users’ problems and find key insights from the user research to apply in the prototype design process. Most participants had experienced negative feelings while scrolling through negative news or content on the Internet, leading them to become even more engaged while scrolling through negative content.
 ![map](/Assets/coreinsights.jpg)
 Overall, the user research provided important insights about users' intentions in scrolling online negative content, such as news, and the emotions of users during scrolling. Such insights are important, as they were critical to being considered in the prototyping process to design and develop an app that could benefit users with doomscrolling problems. The table below shows the emotional response toward doomscrolling analysis.
+![analysis](/Assets/33.jpg)
+*** Problem statements
+![problems](/Assets/44.jpg)
+# Prototyping
+An intervention nudging The app was developed based on insights from the theoretical review and user research analysis. The prototype consists of the design part and technical code components. In the design part, three different interventions were designed based on emotion, meditation, and notification. Moreover, an app customization part was designed that consisted of different parts such as setting app limitations, setting downtime schedules, adding and customizing interventions, and an overview of reports. 
+# First Iteration
+The prototype creation process began with designing three different interventions to investigate different effects on target users, with ideas extracted from insights from the theoretical framework and analysis from user research.
+### First Iteration User Testing: Feedback Sessions
+
+
+
+
 
 
 
