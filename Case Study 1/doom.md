@@ -15,6 +15,10 @@ The procedure was divided into two parts:
 ### The table below shows the convenience sampling group demographics of participants.                            
 ![sampling2](/Assets/11.png)
 ## Online recruited group procedure
+To prevent potential biases in the user research sampling and gain as many diverse insights as possible, I collected data from 15 participants via an online survey using the same friendship group criteria and questions.
+The table below illustrates the demographics of the online recruited groups. 
+![samle online](/Assets/22.png)
+
   
                                                   
 
