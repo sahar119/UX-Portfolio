@@ -19,9 +19,11 @@ To prevent potential biases in the user research sampling and gain as many diver
 The table below illustrates the demographics of the online recruited groups. 
 ![samle online](/Assets/22.png)
 # Analysis of User Research Data
-The affinity map demonstrates the core insights from both groups of users (face-to-face interviews and online participants). More specifically, I summarized the participants' answers for each category of questions: main intention or motivation to scroll, feelings during scrolling, hacks, and their needs or reasons for having an intervention app that can interrupt their mindless scrolling habits.
-The analysis has been done to identify the main users’ problems and find key insights from the user research to apply in the prototype design process. Most participants had experienced negative feelings while scrolling through negative news or content on the Internet, leading them to become even more engaged while scrolling through negative content.
-![affinity map](/Assets/coreinsights.JPG)
+The affinity map demonstrates the core insights from both groups of users (face-to-face interviews and online participants). More specifically, I summarized the participants' answers for each category of questions: main intention or motivation to scroll, feelings during scrolling, hacks, and their needs or reasons for having an intervention app that can interrupt their mindless scrolling habits. The analysis has been done to identify the main users’ problems and find key insights from the user research to apply in the prototype design process. Most participants had experienced negative feelings while scrolling through negative news or content on the Internet, leading them to become even more engaged while scrolling through negative content.
+![map](/Assets/coreinsights.jpg)
+Overall, the user research provided important insights about users' intentions in scrolling online negative content, such as news, and the emotions of users during scrolling. Such insights are important, as they were critical to being considered in the prototyping process to design and develop an app that could benefit users with doomscrolling problems. The table below shows the emotional response toward doomscrolling analysis.
+
+
 
 
 
