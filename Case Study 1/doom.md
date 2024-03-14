@@ -29,6 +29,7 @@ Overall, the user research provided important insights about users' intentions i
 An intervention nudging The app was developed based on insights from the theoretical review and user research analysis. The prototype consists of the design part and technical code components. In the design part, three different interventions were designed based on emotion, meditation, and notification. Moreover, an app customization part was designed that consisted of different parts such as setting app limitations, setting downtime schedules, adding and customizing interventions, and an overview of reports. 
 # First Iteration
 The prototype creation process began with designing three different interventions to investigate different effects on target users, with ideas extracted from insights from the theoretical framework and analysis from user research.
+
 ### First Iteration User Testing: Feedback Sessions
 
 
