@@ -28,7 +28,11 @@ Overall, the user research provided important insights about users' intentions i
 # Prototyping
 ## First Iteration
 The prototype creation process began with designing three different interventions based on emotion, meditation, and notification to investigate different effects on target users, with ideas extracted from insights from the theoretical framework and analysis from user research. 
-### Intervention 1: Meditation
+### Intervention 1: Notification
+![notification](/Assets/Notification.gif)
+### Intervention 2: Comic
+![comic](/Assets/comic.gif)
+### Intervention 3: Meditation
 ![medi](/Assets/meditation.gif)
 ### First Iteration User Testing
 The intervention designs were tested in a 90-minute feedback session with five participants (four females and one male) to identify problem areas and reveal opportunities. During the sessions, participants tested three intervention designs. They were then asked about the effectiveness of the interventions.
