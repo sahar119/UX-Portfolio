@@ -56,6 +56,8 @@ A recommender system was developed that gives the current emotional state of the
                                              V= number of votes to the cartoons 
                                              m= m is the minimum votes required to be considered
                                              R= Average for the cartoon as a number from 0 to 10
+![tec1](/Assets/teck1.jpg)
+![tec2](/Assets/tec2.jpg)
 ## Second Iteration User Testing
 Some of the participants gave some valuable feedback. One participant stated that to prevent more content from being consumed, there should be a limited number of comic suggestions. The other participant's feedback was that it would be efficient if a customization interface existed for users to customize nudges on the App. 
 ##### “Putting several cartoons in the app for users to view would keep them on their phone for just as long and provide more content to consume.”
@@ -71,6 +73,8 @@ In this iteration, some improvements were made based on feedback comments from t
 A report creator was developed with Python for the App. The primary purpose for creating this feature was to provide a report that included Total Opening Attempts, Average Time Spent on the App (Twitter), Preventions, and Time Saved. This report is accessible in the Settings of the App.
 This code calculates the total attempts that the user makes to open a social media site, the average time spent on it, the prevention times by the intervention app, and the total time saved as a result of not opening the social media (App). Time saved is calculated based on the following formula:
 #### Time saved = The numbers of Prevention * Mean spend time (on a social media App)
+![tec3](/Assets/tec3.jpg)
+![tec3](/Assets/report.jpg) 
 ## Third Iteration User Testing
 The last feedback session led to the final iteration design. A piece of feedback received was a suggestion for creating a report for emotional state and time-filler, as mentioned below by one of the participants: 
 ##### "I like the idea of an intention tracker; it would even be better if it could produce a report for emotional states and time-filler as well for someone who wants to know.”
