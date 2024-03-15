@@ -59,7 +59,7 @@ A recommender system was developed that gives the current emotional state of the
 ![tec1](/Assets/teck1.jpg)
 ![tec2](/Assets/tec2.jpg)
 
-[See codes here](https://github.com/sahar119/UX-Portfolio/blob/main/Case%20Study%201/RecommenderSystem.ipynb)
+[See recommender system codes here.](https://github.com/sahar119/UX-Portfolio/blob/main/Case%20Study%201/RecommenderSystem.ipynb)
 
 ## Second Iteration User Testing
 Some of the participants gave some valuable feedback. One participant stated that to prevent more content from being consumed, there should be a limited number of comic suggestions. The other participant's feedback was that it would be efficient if a customization interface existed for users to customize nudges on the App. 
@@ -78,6 +78,10 @@ This code calculates the total attempts that the user makes to open a social med
 #### Time saved = The numbers of Prevention * Mean spend time (on a social media App)
 ![tec3](/Assets/tec3.jpg)
 ![tec3](/Assets/report.jpg) 
+
+[See a sample of the weekly report code here.](https://github.com/sahar119/UX-Portfolio/blob/main/Case%20Study%201/Report.ipynb)
+
+[See a sample of the intention report tracker here.](https://github.com/sahar119/UX-Portfolio/blob/main/Case%20Study%201/intentionReport.ipynb)
 ## Third Iteration User Testing
 The last feedback session led to the final iteration design. A piece of feedback received was a suggestion for creating a report for emotional state and time-filler, as mentioned below by one of the participants: 
 ##### "I like the idea of an intention tracker; it would even be better if it could produce a report for emotional states and time-filler as well for someone who wants to know.”
