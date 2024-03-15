@@ -36,6 +36,9 @@ The prototype creation process began with designing three different intervention
 ![comic](/Assets/comic.gif)
 ### Intervention 3: Meditation
 ![medi](/Assets/meditation.gif)
+[See codes here](/Case Study 1/RecommenderSystem.ipynb)
+[See codes here](https://github.com/sahar119/UX-Portfolio/blob/main/Case%20Study%201/RecommenderSystem.ipynb)
+
 ### First Iteration User Testing
 The intervention designs were tested in a 90-minute feedback session with five participants (four females and one male) to identify problem areas and reveal opportunities. During the sessions, participants tested three intervention designs. They were then asked about the effectiveness of the interventions.
 ### Findings First Iteration
