@@ -23,7 +23,7 @@ The affinity map demonstrates the core insights from both groups of users (face-
 ![map](/Assets/coreinsights.jpg)
 Overall, the user research provided important insights about users' intentions in scrolling online negative content, such as news, and users' emotions during scrolling. Such insights are important, as they were critical to being considered in the prototyping process to design and develop an app that could benefit users with doomscrolling problems. The table below shows the emotional response toward doomscrolling analysis.
 ![analysis](/Assets/33.jpg)
-### Problem statements
+## Problem statements
 ![problems](/Assets/44.jpg)
 # Prototyping
 ## First Iteration
@@ -40,8 +40,7 @@ Based on findings from the first iteration, user research, and a theoretical fra
 Based on the theoretical framework, there were three main emotional contributing factors related to doomscrolling: sadness, anxiety, and stress. In addition, based on project user research analysis, filling up spare time was one of the third main motives for intentional online news consumption. Time-filler moments are constant throughout the day on the train, in the bathroom, or taking a break when people want entertainment by consuming news on online media platforms (Taylor, 2019b). Therefore, an intention tracker was designed to identify the current users` motive for opening X. 
 ### Technical implementation
 A recommender system was developed that gives the current emotional state of the user, checks if it is more than 30 minutes, and then recommends three cartoons. This recommendation system is Non-personalized and works based on weightage average technique. 
-
-(v/(v+m) * R) + (m/(m+v) * C)
+##### (v/(v+m) * R) + (m/(m+v) * C)
                                              W= weightage rating
                                              C= C is the mean vote 
                                              V= number of votes to the cartoons 
