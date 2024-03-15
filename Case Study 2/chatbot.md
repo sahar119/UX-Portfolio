@@ -12,6 +12,10 @@ Empathize => Define problem state => Ideate => Prototype => Test=> Iteration=> T
 I gained some insights from observation on the first visit, I wanted to familiarize myself with the Nemo visitor's experience and their pain points.
 
 ### Semi-structured interview
+I conducted semi-structured interviews, asking 6 participants (five parents of pre-teen children and one staff member) about their visiting experience.
+#### Interview Visitors Nemo questions
+
+#### Interview Nemo staff
 
 
 
