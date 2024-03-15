@@ -34,6 +34,20 @@ The intervention designs were tested in a 90-minute feedback session with five p
 An important takeaway from the feedback sessions was that participants found the meditation intervention equally effective as the notification. At the same time, they stated that comic intervention should be improved.
 #### "The idea behind viewing a cartoon might be vague for users; they need to be informed of why it pops up." 
 #### “It's an interesting idea. However, it should probably be forceful on the user instead of simply being a notification. Something like hiding away the browser for a while to let the comic take up the space to distract the user.” 
+## Second Iteration
+Based on findings from the first iteration, user research, and a theoretical framework, a design for a recommender system in two parts—design and technical implementation—was developed in the second iteration. The primary aim of this iteration was to design an emotional-based recommendation system for the project target group to identify their emotional state and, if the App finds that they are in a negative emotional mood (sad, anxious, or stressed), recommend them comic content.
+### UX design 
+Based on the theoretical framework, there were three main emotional contributing factors related to doomscrolling: sadness, anxiety, and stress. In addition, based on project user research analysis, filling up spare time was one of the third main motives for intentional online news consumption. Time-filler moments are constant throughout the day on the train, in the bathroom, or taking a break when people want entertainment by consuming news on online media platforms (Taylor, 2019b). Therefore, an intention tracker was designed to identify the current users` motive for opening X. 
+### Technical implementation
+A recommender system was developed that gives the current emotional state of the user, checks if it is more than 30 minutes, and then recommends three cartoons. This recommendation system is Non-personalized and works based on weightage average technique. 
+
+(v/(v+m) * R) + (m/(m+v) * C)
+                                             W= weightage rating
+                                             C= C is the mean vote 
+                                             V= number of votes to the cartoons 
+                                             m= m is the minimum votes required to be considered
+                                             R= Average for the cartoon as a number from 0 to 10
+
 
 
 
