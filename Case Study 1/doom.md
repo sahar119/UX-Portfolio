@@ -36,9 +36,6 @@ The prototype creation process began with designing three different intervention
 ![comic](/Assets/comic.gif)
 ### Intervention 3: Meditation
 ![medi](/Assets/meditation.gif)
-[See codes here](/Case Study 1/RecommenderSystem.ipynb)
-[See codes here](https://github.com/sahar119/UX-Portfolio/blob/main/Case%20Study%201/RecommenderSystem.ipynb)
-
 ### First Iteration User Testing
 The intervention designs were tested in a 90-minute feedback session with five participants (four females and one male) to identify problem areas and reveal opportunities. During the sessions, participants tested three intervention designs. They were then asked about the effectiveness of the interventions.
 ### Findings First Iteration
@@ -61,6 +58,9 @@ A recommender system was developed that gives the current emotional state of the
                                              R= Average for the cartoon as a number from 0 to 10
 ![tec1](/Assets/teck1.jpg)
 ![tec2](/Assets/tec2.jpg)
+
+[See codes here](https://github.com/sahar119/UX-Portfolio/blob/main/Case%20Study%201/RecommenderSystem.ipynb)
+
 ## Second Iteration User Testing
 Some of the participants gave some valuable feedback. One participant stated that to prevent more content from being consumed, there should be a limited number of comic suggestions. The other participant's feedback was that it would be efficient if a customization interface existed for users to customize nudges on the App. 
 ##### “Putting several cartoons in the app for users to view would keep them on their phone for just as long and provide more content to consume.”
