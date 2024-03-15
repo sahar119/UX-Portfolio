@@ -28,12 +28,12 @@ Overall, the user research provided important insights about users' intentions i
 # Prototyping
 ## First Iteration
 The prototype creation process began with designing three different interventions based on emotion, meditation, and notification to investigate different effects on target users, with ideas extracted from insights from the theoretical framework and analysis from user research. 
-### First Iteration User Testing: Feedback Sessions
+### First Iteration User Testing
 The intervention designs were tested in a 90-minute feedback session with five participants (four females and one male) to identify problem areas and reveal opportunities. During the sessions, participants tested three intervention designs. They were then asked about the effectiveness of the interventions.
 ### Findings First Iteration
 An important takeaway from the feedback sessions was that participants found the meditation intervention equally effective as the notification. At the same time, they stated that comic intervention should be improved.
-#### "The idea behind viewing a cartoon might be vague for users; they need to be informed of why it pops up." 
-#### “It's an interesting idea. However, it should probably be forceful on the user instead of simply being a notification. Something like hiding away the browser for a while to let the comic take up the space to distract the user.” 
+##### "The idea behind viewing a cartoon might be vague for users; they need to be informed of why it pops up." 
+##### “It's an interesting idea. However, it should probably be forceful on the user instead of simply being a notification. Something like hiding away the browser for a while to let the comic take up the space to distract the user.” 
 ## Second Iteration
 Based on findings from the first iteration, user research, and a theoretical framework, a design for a recommender system in two parts—design and technical implementation—was developed in the second iteration. The primary aim of this iteration was to design an emotional-based recommendation system for the project target group to identify their emotional state and, if the App finds that they are in a negative emotional mood (sad, anxious, or stressed), recommend them comic content.
 ### UX design 
@@ -46,9 +46,13 @@ A recommender system was developed that gives the current emotional state of the
                                              V= number of votes to the cartoons 
                                              m= m is the minimum votes required to be considered
                                              R= Average for the cartoon as a number from 0 to 10
+## Second Iteration User Testing
+Some of the participants gave some valuable feedback. One participant stated that to prevent more content from being consumed, there should be a limited number of comic suggestions. The other participant's feedback was that it would be efficient if a customization interface existed for users to customize nudges on the App. 
+##### “Putting several cartoons in the app for users to view would keep them on their phone for just as long and provide more content to consume.”
+##### “There should be customization by the user that allows for customized nudges.”
 
-
-
+                                             
+                                             
 
 
 
