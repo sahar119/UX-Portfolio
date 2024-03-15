@@ -50,6 +50,16 @@ A recommender system was developed that gives the current emotional state of the
 Some of the participants gave some valuable feedback. One participant stated that to prevent more content from being consumed, there should be a limited number of comic suggestions. The other participant's feedback was that it would be efficient if a customization interface existed for users to customize nudges on the App. 
 ##### “Putting several cartoons in the app for users to view would keep them on their phone for just as long and provide more content to consume.”
 ##### “There should be customization by the user that allows for customized nudges.”
+## Third Iteration
+The third iteration aimed to finalize the prototype in the format of a nudging app for iPhone mobile phones. The App was named Unhooked, and an icon was designed for that. To use this App, the user should create an automation in Shortcuts. Shortcuts is a default installed feature on Apple mobile phones that allows
+users to create macros for specific tasks on their phones.
+### UX design
+In this iteration, some improvements were made based on feedback comments from the second iteration and some users` identified needs from the user research section, such as setting a time-limit app and a downtime schedule.
+### Technical implementation
+A report creator was developed with Python for the App. The primary purpose for creating this feature was to provide a report that included Total Opening Attempts, Average Time Spent on the App (Twitter), Preventions, and Time Saved. This report is accesseble in the Setting of App.
+This code calculates the total attempts that the user makes to open a social media site, the average time spent on it, the prevention times by the intervention app, and the total time saved as a result of not opening the social media (App). Time saved is calculated based on the following formula:
+#### Time saved = The numbers of Prevention * Mean spend time (on a social media App)
+
 
                                              
                                              
