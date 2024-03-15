@@ -32,9 +32,8 @@ The prototype creation process began with designing three different intervention
 The intervention designs were tested in a 90-minute feedback session with five participants (four females and one male) to identify problem areas and reveal opportunities. During the sessions, participants tested three intervention designs. They were then asked about the effectiveness of the interventions.
 ### Findings First Iteration
 An important takeaway from the feedback sessions was that participants found the meditation intervention equally effective as the notification. At the same time, they stated that comic intervention should be improved.
-"The idea behind viewing a cartoon might be vague for users; they need to be informed of why it pops up." 
-
-“It's an interesting idea. However, it should probably be forceful on the user instead of simply being a notification. Something like hiding away the browser for a while to let the comic take up the space to distract the user.” 
+#### "The idea behind viewing a cartoon might be vague for users; they need to be informed of why it pops up." 
+#### “It's an interesting idea. However, it should probably be forceful on the user instead of simply being a notification. Something like hiding away the browser for a while to let the comic take up the space to distract the user.” 
 
 
 
