@@ -73,6 +73,8 @@ Overall, participants perceived the emotional-based intervention (comic) as equa
 ![result1](/Assets/results1.png)
 ## Discussion of the results
 The results provided initial evidence that the proposed intervention in the present thesis is perceived equally positively as the other two established interventions. More interestingly, the users who never thought about controlling or using intervention to control their screen time found the proposed intervention (comic) more effective in reducing screen time than the mediation or notification intervention. The reason for such an observation might be that the users who never thought of controlling their screen time were those who spent less time on social media. To test this, I also looked at the time spent on social media reported by users based on their past willingness to control their screen time. As shown in the below figure, users who said they never thought of controlling their screen time have the lowest online content usage. Nevertheless, it would be interesting to explore such a finding in the future to understand the underlying reasons for different groups of users adopting emotional (comic in the present thesis) or time-based (notification, meditation) interventions. 
+![result2](/Assets/result2.png)
+
 
 
 
