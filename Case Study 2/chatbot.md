@@ -8,10 +8,11 @@ how to Improve the guidance aspect of the user experience during visits to the N
 ## Design Process
 Empathize => Define problem state => Ideate => Prototype => Test=> Iteration=> Test=> Final prototype
 ## Empathize
-### First visit to the museum to identify problems based on experience
+### First visit to the museum 
 I gained some insights from observation on the first visit, I wanted to familiarize myself with the Nemo visitor's experience and their pain points.
 
-### Semi-structured interviews with NEMO visitors and staff  
+### Semi-structured interview
+
 
 
 
