@@ -18,7 +18,9 @@ I conducted semi-structured interviews, asking 6 participants (five parents of p
 ### Interview Nemo staff
 ![staff](/Assets/staff.jpg)
 ## Findings
-
+- 60.0% of the participants found that navigation through exhibitions and floors was neither easy nor difficult. However, when the museum is crowded, it is hard to handle their kids. Therefore, they prefer to have a digital, personalized map. 
+- b
+- v 
 ## Define
 ## Ideate
 ## Prototype
