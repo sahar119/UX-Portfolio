@@ -8,11 +8,8 @@ how to Improve the guidance aspect of the user experience during visits to the N
 ## Design Process
 Empathize => Define => Ideate => Prototype => Test
 ## Empathize
-### First visit to the museum 
-I gained some insights from observation on the first visit and found some areas to improve. I wanted to familiarize myself with the Nemo visitor's experience and their pain points.
-![prob1](/Assets/problems1.png)
 ### Semi-structured interview
-I conducted semi-structured interviews, asking 6 participants (five parents of pre-teen children and one staff member) about their visiting experience.
+I wanted to familiarize myself with the Nemo visitor's experience and their pain points. Therefore, I conducted semi-structured interviews, asking six participants (five parents of pre-teen children and one staff member) about their visiting experience.
 ### Interview Visitors Nemo questions
 ![visitors](/Assets/visitors.jpg)
 ### Interview Nemo staff
@@ -22,9 +19,11 @@ I conducted semi-structured interviews, asking 6 participants (five parents of p
 - Some of the participants believed that the guidance of the apparatus and live workshops was not efficient and that they needed more adaptive information, specifically about the museum's exhibits.
 - Only 1 of the 6 participants believed there was no need to have an app for the museum.
 ## Define
+## Problem Statement
+
+
 ## Ideate
 ## Prototype
-## First iteration
 ## Test
 
 
