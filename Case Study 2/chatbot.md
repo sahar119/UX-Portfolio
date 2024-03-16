@@ -13,10 +13,12 @@ I gained some insights from observation on the first visit, I wanted to familiar
 
 ### Semi-structured interview
 I conducted semi-structured interviews, asking 6 participants (five parents of pre-teen children and one staff member) about their visiting experience.
-- Interview Visitors Nemo questions
+### Interview Visitors Nemo questions
 ![visitors](/Assets/visitors.jpg)
-#### Interview Nemo staff
+### Interview Nemo staff
 ![staff](/Assets/staff.jpg)
+## Findings
+
 
 
 
