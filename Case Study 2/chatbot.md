@@ -6,7 +6,7 @@ For this project, I have chosen the NEMO Science Museum, which is the fifth most
 ## Problem
 how to Improve the guidance aspect of the user experience during visits to the NEMO Museum Amsterdam for parents with Pre-teen (9-12 years) children? 
 ## Design Process
-Empathize => Define problem state => Ideate => Prototype => Test=> Iteration=> Test=> Final prototype
+Empathize => Define => Ideate => Prototype => Test
 ## Empathize
 ### First visit to the museum 
 I gained some insights from observation on the first visit, I wanted to familiarize myself with the Nemo visitor's experience and their pain points.
@@ -18,7 +18,7 @@ I conducted semi-structured interviews, asking 6 participants (five parents of p
 ### Interview Nemo staff
 ![staff](/Assets/staff.jpg)
 ## Findings
-## Define problem state
+## Define
 # Ideate
 ## Prototype
 ## First iteration
