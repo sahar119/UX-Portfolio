@@ -18,6 +18,7 @@ I conducted semi-structured interviews, asking 6 participants (five parents of p
 ### Interview Nemo staff
 ![staff](/Assets/staff.jpg)
 ## Findings
+
 ## Define
 ## Ideate
 ## Prototype
