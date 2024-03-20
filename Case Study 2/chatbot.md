@@ -20,10 +20,8 @@ I wanted to familiarize myself with the Nemo visitor's experience and their pain
 - 53% of the participants needed more adaptive information about live workshops and exhibitions.
 - Only 1 of the 6 participants believed there was no need to have an app for the museum.
 ## Define
-
 ## Problem Statement
-
-
+![problems](/Assets/problems1.png)
 ## Ideate
 ## Prototype
 ## Test
