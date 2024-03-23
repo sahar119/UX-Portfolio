@@ -21,9 +21,7 @@ I wanted to familiarize myself with the Nemo visitor's experience and their pain
 - Only 1 of the 6 participants believed there was no need to have an app for the museum.
 ### User Persona
 Based on the interview findings, I've created a user persona to represent the user target of the project. Who are they? What are they interested in? By doing this, I can empathize with the target users more closely and better interpret their expectations, concerns, and motivations.
-
 ![person](/Assets/persona.jpg)
-
 ## Define
 ### Storyboard 
 Using the insights from the survey and user persona, I created a storyboard to illustrate a museum's visitor's pain points.
@@ -33,6 +31,7 @@ Using the insights from the survey and user persona, I created a storyboard to i
 I identified a few problem statements based on the findings.
 ![problems](/Assets/problems1.png)
 ## Ideate
+### How Might We
 I generated a few How Might We statements in response to address the above problem statements.
 
 ## Prototype
