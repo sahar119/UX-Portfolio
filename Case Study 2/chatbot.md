@@ -33,9 +33,10 @@ Using the insights from the survey and user persona, I created a storyboard to i
 I identified a few problem statements based on the findings.
 ![problems](/Assets/problems1.png)
 ## Ideate
-With a clear understanding of our user's pain points, I began brainstorming solutions. The solution's idea was to design a chatbot for the museum`s app. Therefore, users can follow it everywhere in the museum and get directions, maps, information, and guidance; furthermore, the chatbot gives feedback on their visit experience.
+I generated a few How Might We statements in response to address the above problem statements.
+
 ## Prototype
-I decided to separate the chatbot design and integrate a feedback survey in the menu of the museum app.  
+With a clear understanding of our users's pain points, I began brainstorming solutions. The main idea was to design a chatbot for the museum`s app. Therefore, users can follow it everywhere in the museum and get directions, maps, information, and guidance; furthermore, the chatbot gives feedback on their visit experience.
 ### Iteration1: chatbot part
 ![chat1](/Assets/chat1.jpg)
 ### Iteration1: feedback part
