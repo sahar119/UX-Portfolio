@@ -41,6 +41,8 @@ The idea was to design a chatbot for the museum`s app. Therefore, users can foll
 ### Iteration2
 ### Clickable Prototype
 ## Conclusion
+Considering the potential of the NEMO museum as an interactive science museum, for fulfillment to reach an ideal chatbot, there is still a need for more ideas, iterations, tests, and research to integrate more aspects into a museum mobile app.
+
 
 
 
