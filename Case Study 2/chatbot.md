@@ -29,15 +29,17 @@ Based on the interview findings, I've created a user persona to represent the us
 Using the insights from the survey and user persona, I created a storyboard to illustrate a museum's visitor's pain points.
 
 ![story](/Assets/story.jpg)
-
 ### Problem Statement
 I identified a few problem statements based on the findings.
 ![problems](/Assets/problems1.png)
 ## Ideate
+The idea was to design a chatbot for the museum`s app. Therefore, users can follow it everywhere in the museum and get directions, maps, information, and guidance; furthermore, the chatbot gives feedback on their visit experience.
 ## Prototype
 ### Iteration1
+
 ### Test and feedback session
 ### Iteration2
+### Clickable Prototype
 ## Conclusion
 
 
