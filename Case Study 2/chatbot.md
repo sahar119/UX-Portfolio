@@ -33,7 +33,7 @@ I identified a few problem statements based on the findings.
 ## Ideate
 ### How Might We
 I generated a few How Might We statements in response to address the above problem statements.
-
+![might](/Assets/might.jpg)
 ## Prototype
 With a clear understanding of our users's pain points, I began brainstorming solutions. The main idea was to design a chatbot for the museum`s app. Therefore, users can follow it everywhere in the museum and get directions, maps, information, and guidance; furthermore, the chatbot gives feedback on their visit experience.
 ### Iteration1: chatbot part
