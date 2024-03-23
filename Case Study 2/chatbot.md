@@ -41,7 +41,21 @@ I decided to separate the chatbot design and integrate a feedback survey in the 
 ### Iteration1: feedback part
 ![feed](/Assets/feedbk.jpg)
 ### Test 
+I asked users (a total of 6 people) to run my app and navigate through the prototype based on an imaginary scenario in which they are parents with their children visiting NEMO at the weekend while the museum is crowded and noisy.
+Here are my user testing results: 
+User A
+• Show the number of floors of exhibitions (because it’s confusing for people to find).
+User B
+• Show the distance of staff to visitors (by this, people will choose the nearest staff to them, for instance, 500 m).
+• Change the color of your template from black to a brighter color.
+User C
+• Suggest WCs and food catering (because it’s a vital need specifically for children). 
+User D
+• In the communication between the mother and staff, when a mother asks, do you think it is safe for my daughter to work with chemical material? staff replied, Yes, for sure. It seems deceiving and needs more explanation to prove why the staff is sure about the safety of the laboratory. For instance, it is safe because our laboratory staff always checks the devices in the lab before the museum's working hours, and all experiments are designed with the lowest level of risk for children.
+UserE
+• Change the conversation between the visitor and the staff into a conversation between the visitor and the chatbot.
 ### Iteration2
+![it2](/Assets/iteration2.jpg)
 ### Clickable Prototype
 ## Conclusion
 Considering the potential of the NEMO museum as an interactive science museum, for fulfillment to reach an ideal chatbot, there is still a need for more ideas, iterations, tests, and research to integrate more aspects into a museum mobile app.
