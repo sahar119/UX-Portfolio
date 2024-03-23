@@ -21,6 +21,7 @@ I wanted to familiarize myself with the Nemo visitor's experience and their pain
 - Only 1 of the 6 participants believed there was no need to have an app for the museum.
 ## User Persona
 Based on the interview findings, I've created a user persona to represent the user target of the project. Who are they? What are they interested in? By doing this, I can empathize with the target users more closely and better interpret their expectations, concerns, and motivations.
+
 ![problems](/Assets/persona.jpg)
 
 ## Define
