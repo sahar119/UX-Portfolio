@@ -28,14 +28,14 @@ Based on the interview findings, I've created a user persona to represent the us
 ### Storyboard 
 Using the insights from the survey and user persona, I created a storyboard to illustrate a museum's visitor's pain points.
 
-## Problem Statement
+### Problem Statement
 I identified a few problem statements based on the findings.
 ![problems](/Assets/problems1.png)
 ## Ideate
 ## Prototype
-## Iteration1
-## Test and feedback session
-## Iteration2
+### Iteration1
+### Test and feedback session
+### Iteration2
 ## Conclusion
 
 
