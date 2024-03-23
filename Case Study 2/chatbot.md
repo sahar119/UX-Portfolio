@@ -35,9 +35,12 @@ I identified a few problem statements based on the findings.
 ## Ideate
 The idea was to design a chatbot for the museum`s app. Therefore, users can follow it everywhere in the museum and get directions, maps, information, and guidance; furthermore, the chatbot gives feedback on their visit experience.
 ## Prototype
-### Iteration1
-
-### Test and feedback session
+I decided to separate the chatbot design and integrate a feedback survey in the menu of the museum app.  
+### Iteration1: chatbot part
+![chat1](/Assets/chat1.jpg)
+### Iteration1: feedback part
+![feed](/Assets/feedbk.jpg)
+### Test 
 ### Iteration2
 ### Clickable Prototype
 ## Conclusion
