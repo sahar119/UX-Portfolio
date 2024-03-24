@@ -52,6 +52,10 @@ Here are my user testing results: 
 ### Iteration2
 ![it2](/Assets/iteration2.jpg)
 ### Clickable Prototype
+#### Chatbot
+![chat](/Assets/chatbot.gif)
+#### Feedback
+![feed](/Assets/feedback.gif)
 ## Conclusion
 Considering the potential of the NEMO museum as an interactive science museum, for fulfillment to reach an ideal chatbot, there is still a need for more ideas, iterations, tests, and research to integrate more aspects into a museum mobile app.
 
