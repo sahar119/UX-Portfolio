@@ -42,6 +42,11 @@ Despite interesting results, my study has several limitations. I used a limited 
 
 ### List of Measures Used in the Study
 ![measures](/Assets/measures.jpg)
+### Correlations among the variables
+![variables](/Assets/variables.jpg)
+## Prototype
+![prototype](/Assets/MuseumDeLakenhal.gif)
+
 
 
 
