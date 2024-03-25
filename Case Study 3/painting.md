@@ -10,6 +10,12 @@
 People's motivations for visiting museums vary. Some visit museums to entertain themselves, some like to learn about the past or get inspired, and some like to feel connected. Feeling connected has been suggested as an important motivation for museum visitors. Such feelings of connectedness, in turn, increase viewers’ appreciation and liking of art. However, not all museum visitors may appreciate all types of art, such as modern art. One reason is that viewers find it hard to process contemporary art's meanings cognitively. Because modern art does not represent the real world and includes abstract concepts, it requires a greater need for interpretation than classic art. In abstract paintings, the artist nearly omits the content, leaving it up to the viewers to interpret and extract meaning from the painting. Furthermore, understanding the meaning of modern abstract artwork is not finished by just looking at what is depicted, for instance, in an abstract artwork.
 ## Research question
 How can museums help viewers of modern art understand the meanings and, as a result, increase the viewers’ liking of modern art and improve the visiting experience?
+## Method
+Based on the literature, it seems plausible to predict that by adding some additional information about the content of an abstract painting, viewers will experience less difficulty processing and extracting the meaning. Accordingly, increased perceived fluency leads to increased appreciation or liking of abstract painting. The following figure illustrates the theoretical framework and proposed relationships.
+
+![framwork](/Assets/framwork.jpg)
+
+
 
 
 
