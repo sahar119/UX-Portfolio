@@ -15,6 +15,18 @@ Based on the literature, it seems plausible to predict that by adding some addit
 
 ![framwork](/Assets/framwork.jpg)
 
+I adopted a quantitative research method. I ran an experiment to test the key prediction in the present study. Running an experiment and manipulating the independent variable allowed me to explore whether adding information about the content enhances perceived fluency and liking more than adding only the title or nothing. I developed a survey including all the measures and manipulations of the independent variable. In the experiment, I created three conditions (title and brief description, title only, no title, no description). Participants were randomly assigned to one of the three conditions.
+
+In the control condition, participants only received information about the name of the artist and the year the painting was created. In the title condition, in addition to the name of the artist and year of painting, participants received information about the title of the paintings. In the main study condition or description condition, in addition to the name, year, and title, participants received a brief description of the paintings' content. To choose the paintings for the study, I went to the De Lakenhal Museum in Leiden and took pictures of 10 modern paintings that were abstract. I chose five paintings that seemed more abstract than the rest and decided to include them in the experimental study.
+
+For the descriptions, I collected the descriptions of paintings as shown next to them in the De Lakenhal Museum. I kept the information related to the content and removed additional information, such as the painting technique or information about the artists' friends. After seeing the paintings, I asked them to respond to questions measuring perceived fluency, liking, tolerance for ambiguity, prior museum visits, and knowledge of modern art (whether they had visited a modern art museum in the past). In addition, I also measured the perceived abstractness of the painting and whether they would recommend the museum to a friend or family member. In the end, they responded to demographic questions.
+## Findings
+
+
+
+
+
+
 
 
 
