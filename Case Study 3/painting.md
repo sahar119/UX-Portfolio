@@ -6,5 +6,8 @@
 ##### Data analysis: SPSS
 ##### Data collection platform: Prolific
 ##### Design tool: Figma
+## Background
+People's motivations for visiting museums vary. Some visit museums to entertain themselves, some like to learn about the past or get inspired, and some like to feel connected. Feeling connected has been suggested as an important motivation for museum visitors. Such feelings of connectedness, in turn, increase viewers’ appreciation and liking of art. However, not all museum visitors may appreciate all types of art, such as modern art. One reason is that viewers find it hard to process contemporary art's meanings cognitively. Because modern art does not represent the real world and includes abstract concepts, it requires a greater need for interpretation than classic art. In abstract paintings, the artist nearly omits the content, leaving it up to the viewers to interpret and extract meaning from the painting. Furthermore, understanding the meaning of modern abstract artwork is not finished by just looking at what is depicted, for instance, in an abstract artwork.
+
 
 
