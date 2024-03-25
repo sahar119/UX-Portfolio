@@ -13,7 +13,9 @@ How can museums help viewers of modern art understand the meanings and, as a res
 ## Method
 Based on the literature, it seems plausible to predict that by adding some additional information about the content of an abstract painting, viewers will experience less difficulty processing and extracting the meaning. Accordingly, increased perceived fluency leads to increased appreciation or liking of abstract painting. The following figure illustrates the theoretical framework and proposed relationships.
 
-![framwork](/Assets/framwork.jpg)
+![framwork](/Assets/framwork.jpg) 
+##### Figure 1. Theoretical Framework
+
 
 I adopted a quantitative research method. I ran an experiment to test the key prediction in the present study. Running an experiment and manipulating the independent variable allowed me to explore whether adding information about the content enhances perceived fluency and liking more than adding only the title or nothing. I developed a survey including all the measures and manipulations of the independent variable. In the experiment, I created three conditions (title and brief description, title only, no title, no description). Participants were randomly assigned to one of the three conditions.
 
@@ -23,7 +25,17 @@ For the descriptions, I collected the descriptions of paintings as shown next to
 ## Findings
 To analyze the data, I used SPSS. I examined the correlation between the study variables. The correlation between adding more information to the painting and perceived fluency was positive but small (r = .34, p <.001). Perceived fluency was significantly and positively correlated with liking (r = .43, p <.001) and the likelihood of recommending the museum (r = .50, p <.001). Finally, there was a significant positive but small correlation between prior knowledge (those who visited a modern art museum in the past) and perceived fluency, suggesting that prior knowledge increases perceived fluency (r = .24, p =.015). Low tolerance for ambiguity was negatively and positively correlated with perceived fluency (r =- .27, p <.01), suggesting that people with a lower tolerance for ambiguity perceived the abstract paintings as less fluent. There was no significant correlation between the perceived abstractness of the paintings and the study condition, suggesting that participants perceived the paintings as equally abstract in all three study conditions. In sum, the results from correlation analysis provide some initial evidence that additional information about the content of abstract paintings may benefit viewers as it can enhance perceived fluency and liking.
 
-As an additional analysis, I divided the data into two parts based on prior knowledge (have you visited a modern museum in the past? 1= No, 2= Yes), and I looked at the means for perceived fluency, liking, and recommending the museum to a friend or family. I controlled for tolerance for ambiguity and art museum frequency visits. The following figures illustrate the mean values. I created the bar charts using Microsoft Excel software. The results showed that adding descriptions did not change the perception of fluency for viewers with no prior knowledge of modern art.
+As an additional analysis, I divided the data into two parts based on prior knowledge (have you visited a modern museum in the past? 1= No, 2= Yes), and I looked at the means for perceived fluency, liking, and recommending the museum to a friend or family. I controlled for tolerance for ambiguity and art museum frequency visits. Figures 2, 3, and 4 illustrate the mean values. The results showed that adding descriptions did not change the perception of fluency for viewers with no prior knowledge of modern art.
+
+![fig2](/Assets/figur2.jpg)
+##### Figure 2. Effect of Adding Information on Perceived Fluency for Viewers With and Without Prior Knowledge
+
+![fig3](/Assets/figur3.jpg)
+##### Figure 3. Effect of Adding Information on Liking for Viewers With and Without Prior Knowledge
+
+![fig4](/Assets/figur4.jpg)
+##### Figure 4. Effect of Adding Information on Recommending the Museum for Viewers With and Without Prior Knowledge
+
 
 
 
