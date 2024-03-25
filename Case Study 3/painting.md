@@ -40,6 +40,10 @@ The present study aimed to explore whether adding additional information about t
 
 Despite interesting results, my study has several limitations. I used a limited number of paintings, and I did not pilot test my paintings to see if there was any variation in the level of novelty and abstractness between the paintings. Some paintings I used, such as Sphere, might have been perceived as more abstract than Flemish Carnival. Another limitation was I did not measure the feelings of being connected to the painting. Despite these limitations, my study has important implications for the museums that exhibit modern abstract paintings, such as the De Lakenhal Museum. Based on the results, it is possible to integrate a new functionality in the current Lakenhal App. Specifically, it would be beneficial to add an option to the App: “a short story about this painting,” such that those viewers who find the title unclear enough to process the meaning of the paintings could choose this option and read more information. By reading the story about the abstract painting, viewers will be able to process the painting easily and understand the meaning of the painting, like it more, and feel more connected. Furthermore, with this new option in the app, visitors can read these stories and information on their mobile phones with the appropriate font size and preferred language instead of standing and finding these stories on the information label on the wall, avoiding blocking others' visits.
 
+### List of Measures Used in the Study
+![measures](/Assets/measures.jpg)
+
+
 
 
 
